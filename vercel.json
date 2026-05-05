@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "framework": "vite",
-  "outputDirectory": ".output",
   "cleanUrls": true,
   "trailingSlash": false
-}
+}
