@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sakshi-shinde.vercel.app/sitemap.xml
